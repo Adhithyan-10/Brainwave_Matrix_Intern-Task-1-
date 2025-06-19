@@ -29,7 +29,7 @@ The site was deployed using Netlify:
 
 Drag and drop method used to deploy static files.
 
-Automatic HTTPS and continuous deployment available with linked Git repo (optional).
+
 
 ✨ Credits
 Template Source:templatemo.com
